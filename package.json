@@ -1,0 +1,23 @@
+{
+  "name": "node.koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankfy/node.koa.git"
+  },
+  "author": "Pony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankfy/node.koa/issues"
+  },
+  "homepage": "https://github.com/yankfy/node.koa#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
