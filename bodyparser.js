@@ -33,7 +33,6 @@ app.use(async(ctx) => {
     } else {
         ctx.body = '<h1>404</h1>'
     }
-    
 })
 
 
