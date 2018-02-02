@@ -12,13 +12,13 @@ app.use(async(ctx) => {
         let html = `
             <h1>Koa2 request POST</h1>
             <form method="POST" action="/">
-                <p>昵称：</p>
+                <p>昵称📛：</p>
                 <input name="userName"/>
                 <br/>
-                <p>年龄：</p>
+                <p>年龄🤕：</p>
                 <input name="userAge"/>
                 <br/>
-                <p>网站：</p>
+                <p>网站🕸：</p>
                 <input name="userWeb"/>
                 <br/>
                 <button type="submit">提交</button>
