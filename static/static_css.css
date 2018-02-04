@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: red;
+}
+p{
+    background-color: red;
+}
